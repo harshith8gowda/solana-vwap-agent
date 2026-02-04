@@ -52,7 +52,7 @@ Price Feed → VWAP Engine → Signal Generator → Jupiter Executor
 
 ## Links
 
-- Repo: [To be created]
+- Repo: https://github.com/harshith8gowda/solana-vwap-agent
 - Demo: [To be deployed]
 
 ## Prize Goal
